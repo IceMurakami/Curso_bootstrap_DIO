@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu+Mono:wght@700&family=Ubuntu:ital,wght@1,300&display=swap');
+*,body{
+    font-family: 'Roboto';
+    font-size: 15px;
+}
+.navbar{
+    background-color:#2E2E2E;
+}
+.nav-link{
+    color:white;
+    font-size: 20px;
+}
+.nav-link:hover{
+    color:#00FFFF;
+}
+.quemsomos{
+    background-color:whitesmoke ;
+}
+.quemsomos  h3{
+    color: black;
+    padding: 0px 10px 10px 10px;
+}
+.quemsomos h{
+    color: black;
+    font-size: 15px;
+    font-family: 'ubuntu';
+    margin: 30px;
+}
+.cont  span{
+    font-family: 'ubuntu';
+    font-size: 14px;
+}
+.margin{
+    padding-top: 10px;
+    padding-bottom: 3px;
+}
+.margin > h3{
+    color: white;
+}
+.cont > p{
+    color: black;
+}
+.contato{
+    margin-top: 50px;
+    border: whitesmoke solid 0.5px;
+    padding: 30px 30px 30px 30px;
+}
+.contato h2{
+    margin-bottom: 20px;
+}
+btn:hover{
+    color:#2E2E2E;
+    background-color: red;
+}
+.itens{
+    align-items: center;
+}
+.parceiros{
+    background-color:#848181 ;
+    color: white;
+}
+.form{
+    font-size: 20px;
+}
+.servico{
+    font-size: 16px;
+    margin-bottom: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
