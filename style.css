@@ -41,6 +41,9 @@
 .cont > p{
     color: black;
 }
+.img{
+    border: 1px solid #00FFFF;
+}
 .contato{
     margin-top: 50px;
     border: whitesmoke solid 0.5px;
